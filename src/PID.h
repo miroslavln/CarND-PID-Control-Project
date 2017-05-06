@@ -42,9 +42,6 @@ public:
     */
     double TotalError();
 
-private:
-    double prev_cte;
-    double total_error;
 };
 
 #endif /* PID_H */
