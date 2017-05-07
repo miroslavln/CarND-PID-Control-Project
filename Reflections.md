@@ -1,4 +1,4 @@
-Initially I started experimenting with different P values.
+Initially I started experimenting with different P which is intended to decrease the error rate.
 I started with 0.5 initially but the car quickly started wobbling and leaving the pavement.
 I started decreasing the value and that produced better results on the straight portion of the road but when the car
 reached the first turns it was leaving the pavement again.
